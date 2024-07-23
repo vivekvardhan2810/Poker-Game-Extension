@@ -10,6 +10,7 @@ A card game that combines strategy, skill, and luck. All players are dealt 2 car
 3. **JavaScript**: Handles the game logic, including:
    
 -   Creating and shuffling the deck.
-Dealing two cards to each player and five community cards.
+ 
+-   Dealing two cards to each player and five community cards.
 Rendering the dealt cards to the screen.
 Using setTimeout to simulate the stages of dealing the community cards (flop, turn, river).
